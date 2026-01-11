@@ -1,4 +1,4 @@
-name: Handle issues
+name: Handle issues event
 on: issues
 
 jobs:
